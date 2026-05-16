@@ -175,10 +175,3 @@ Client                        Server
 | `cannot find symbol` | Missing imports | Add `import java.io.*;` `import java.net.*;` |
 
 ---
-
-## 📚 References
-
-- Java SE 17 Documentation — https://docs.oracle.com
-- Socket Programming — https://www.javatpoint.com/socket-programming
-- Java Multi-threading — https://www.geeksforgeeks.org/multithreading-in-java
-- Computer Networks — Tanenbaum (5th Edition)
